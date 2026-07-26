@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm Abhinav Teja
 
-<!--
-**abhinavteja2005/abhinavteja2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fourth-year undergraduate in Computer Science and Engineering at **IIT Kharagpur**.
 
-Here are some ideas to get you started:
+I'm interested in **quantitative finance**, **low-latency systems**, and building performant software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In Summer 2026, I interned at **NK Securities** as a Quantitative Researcher.
+
+### What I'm currently learning / building
+
+- Algorithms, OS internals, and computing systems optimization
+- Causal Bayesian ML (B.Tech project)
+- C++ for systems-level and low-latency programming
+
+### Competitive Programming
+
+- **Codeforces**: [der_Schwartz_knight](https://codeforces.com/profile/der_Schwartz_knight)
+- **CodeChef**: [dvvabhinavteja](https://www.codechef.com/users/dvvabhinavteja)
+
+### Links
+
+- 📄 [Resume / CV](https://drive.google.com/drive/folders/1Y5Jolvr3LDD_xqWTS36DxvN4IEE4L0wK?usp=drive_link)
+- 📧 Reach me at: dasarivvabhinavteja@gmail.com
