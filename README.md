@@ -19,5 +19,4 @@ In Summer 2026, I interned at **NK Securities** as a Quantitative Researcher.
 
 ### Links
 
-- 📄 [Resume / CV](https://drive.google.com/drive/folders/1Y5Jolvr3LDD_xqWTS36DxvN4IEE4L0wK?usp=drive_link)
 - 📧 Reach me at: dasarivvabhinavteja@gmail.com
