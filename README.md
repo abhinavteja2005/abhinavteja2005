@@ -4,7 +4,7 @@ Fourth-year undergraduate in Computer Science and Engineering at **IIT Kharagpur
 
 I'm interested in **quantitative finance**, **low-latency systems**, and building performant software.
 
-In Summer 2026, I interned at **NK Securities** as a Quantitative Researcher.
+In Summer 2026, I interned at **NK Securities Research** as a Quantitative Researcher.
 
 ### What I'm currently learning / building
 
