@@ -2,15 +2,15 @@
 
 Fourth-year undergraduate in Computer Science and Engineering at **IIT Kharagpur**.
 
-I'm interested in **quantitative finance**, **low-latency systems**, and building performant software.
+I'm interested in **quantitative finance**, **low-latency systems**.
 
-In Summer 2026, I interned at **NK Securities Research** as a Quantitative Researcher.
+In Summer 2026, I interned at **NK Securities Research** as a Quantitative Researcher where I primarily researched on signals from Implied Volatility Smile.
 
-### What I'm currently learning / building
+### What I'm currently learning
 
-- Algorithms, OS internals, and computing systems optimization
-- Causal Bayesian ML (B.Tech project)
-- C++ for systems-level and low-latency programming
+- Advances in Operating System Design (Coursework)
+- Design Optimisation of Computing Systems (Coursework)
+- Detection of Parkinson's disease using Causal Bayesian Models (BTP)
 
 ### Competitive Programming
 
